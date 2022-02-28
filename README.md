@@ -3,6 +3,7 @@ Hi there, thank you for reviewing my project.
 Token name: Nottystar
 Token symbol: NS
 Address on the Rinkeby network: 0x225b22Ab35Db7dbba8599A761A0470807f13174E
+
 I didn't specify the openzeppelin version, I think it should be the latest.
 
 I've opted to use hardhat and a newer version of solidity (0.8) for this project. I've 
